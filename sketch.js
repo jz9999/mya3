@@ -21,8 +21,8 @@ function setup() {
 
    // 圆的中心坐标和半径
    circleX = width * 0.5;
-   circleY = height * 0.7;
-   circleDiameter = 500;
+   circleY = height * 0.68;
+   circleDiameter = 530;
    
 }
 
